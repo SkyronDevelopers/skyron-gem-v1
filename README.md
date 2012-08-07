@@ -4,22 +4,11 @@ TODO: Write a gem description
 
 ## Installation
 
-Add this line to your application's Gemfile:
-
-    gem 'skyron'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
     $ gem install skyron
 
 ## Usage
 
-CREATING PROJECT
-	
+	CREATING PROJECT
 	$compass create my_project -r skyron --using skyron
 
 
