@@ -18,7 +18,14 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+CREATING PROJECT
+	
+	$compass create my_project -r skyron --using skyron
+
+
+
+
+
 
 ## Contributing
 
@@ -27,3 +34,6 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+
